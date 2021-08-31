@@ -1,0 +1,23 @@
+{
+  "name": "beartist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node-sass assets/styles/scss/main.scss -output assets/styles/css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksiSvaridze/beartist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksiSvaridze/beartist/issues"
+  },
+  "homepage": "https://github.com/AleksiSvaridze/beartist#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
