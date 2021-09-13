@@ -1,4 +1,4 @@
 btn.addEventListener("click", () => {
- heading.style.color = "red";
- parag.style.color = "red";
+ heading.style.color = "orangered";
+ parag.style.color = "orangered";
 } );
